@@ -102,7 +102,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Karan Bansinge**  
 - [GitHub](https://github.com/Karan0809)  
-- [LinkedIn](https://www.linkedin.com/in/karanbansinge/)  
+- [LinkedIn](https://www.linkedin.com/in/karan-mern-stack/)  
 
 ---
 
